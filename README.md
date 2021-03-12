@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulceralde
 - 👀 I’m interested in ... advanced materials, robotics, and digital manufacturing
-- 🌱 I’m currently learning ... how to build a startup from these areas I am intersted in
+- 🌱 I’m currently learning ... how to build a startup from these areas I am intersted in specifically using low-cost robotics to manufacture composite materials
 - 💞️ I’m looking to collaborate on ... projects requiring lightweight, high-performance composite materials
 - 📫 How to reach me ... email - pbcrld@gmail.com / LI - https://www.linkedin.com/in/paulceralde/
 
